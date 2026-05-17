@@ -14,7 +14,7 @@ A projekt témája a **Carmichael-számok** vizsgálata. A feladat része Korsel
 
 - 1.md - Az egyes feladatra a válaszunk
 - 2.md - Az kettes feladatra a válaszunk
-- gondolatmenet.md - az egyes és kettes feladatnál amikor irtunk egymásnak.
+- gondolatmenet.md - az egyes és kettes feladatnál amiket irtunk egymásnak a csapattársammal.
 - 1-prompt.md - 1. feladathoz használt prompt
 - 2-prompt.md - 2. feladathoz használt prompt
 - prompts.md - 3. és 4. feladathoz használt prompt
